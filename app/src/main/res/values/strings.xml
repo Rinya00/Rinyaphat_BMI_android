@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string-array name="Gender">
+        <item>ชาย</item>
+        <item>หญิง</item>
+    </string-array>
+
+    <string name="root_url">
+        http://10.13.1.110:3000/api/bmi
+    </string>
+
+</resources>
